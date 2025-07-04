@@ -6,18 +6,12 @@ Senior Full‑stack engineer with 10+ years delivering high‑traffic web and cl
 </p>
 
 <p align="center">
-  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="60" cy="60" r="30" fill="#1f77b4">
-      <animate attributeName="r"
-               from="10" to="50"
-               begin="0s" dur="1.2s"
-               repeatCount="indefinite"/>
-      <animate attributeName="opacity"
-               from="1" to="0"
-               begin="0s" dur="1.2s"
-               repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <img
+    src="https://gist.githubusercontent.com/james2doyle/020ff011322b8b4b31e05fed3fc0a5ee/raw/2a0d2915c4613dfb8c8b40d57993868138fa82f5/animated-spinner.svg"
+    width="40"
+    height="40"
+    alt="Loading spinner"
+  />
 </p>
 
 
