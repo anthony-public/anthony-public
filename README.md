@@ -7,12 +7,11 @@ Senior Full‑stack engineer with 10+ years delivering high‑traffic web and cl
 
 <p align="center">
   <img
-    src="https://gist.githubusercontent.com/james2doyle/020ff011322b8b4b31e05fed3fc0a5ee/raw/2a0d2915c4613dfb8c8b40d57993868138fa82f5/animated-spinner.svg"
-    width="40"
-    height="40"
-    alt="Loading spinner"
+    src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='60'><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='24' fill='%23e91e63'>Waving Text<animate attributeName='y' values='50%;40%;50%' dur='2s' repeatCount='indefinite'/></text></svg>"
+    alt="waving text"
   />
 </p>
+
 
 
 
