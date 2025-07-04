@@ -7,7 +7,7 @@ Senior Full‑stack engineer with 10+ years delivering high‑traffic web and cl
 
 <p align="center">
   <img
-    src="https://gist.githubusercontent.com/alukach/7c510d45080d5b2c1d42a0309ad25411/raw/9e42a8904b8da9a289d45b44491f39a1586293fb/example.svg"
+    src="https://cdn.svgator.com/images/2023/03/stopwatch-svg-animation.svg"
     width="600"
     alt="Animated terminal session"
   />
