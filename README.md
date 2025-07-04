@@ -4,7 +4,22 @@ Senior Full‑stack engineer with 10+ years delivering high‑traffic web and cl
   <a href="https://github.com/ArnoldW-dev"><a href="https://github.com/ArnoldW-dev"><img src="https://komarev.com/ghpvc/?username=maxscodes-price&style=flat" alt="profile views"></a></a>
   <a href="https://github.com/ArnoldW-dev?tab=followers"><img src="https://img.shields.io/github/followers/maxscodes-price?label=Followers&style=flat" alt="followers"></a>
 </p>
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=maxscodes-price&theme=github)
+
+<p align="center">
+  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="60" cy="60" r="30" fill="#1f77b4">
+      <animate attributeName="r"
+               from="10" to="50"
+               begin="0s" dur="1.2s"
+               repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               from="1" to="0"
+               begin="0s" dur="1.2s"
+               repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
+
 
 
 
