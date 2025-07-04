@@ -7,8 +7,9 @@ Senior Full‑stack engineer with 10+ years delivering high‑traffic web and cl
 
 <p align="center">
   <img
-    src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='60'><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='24' fill='%23e91e63'>Waving Text<animate attributeName='y' values='50%;40%;50%' dur='2s' repeatCount='indefinite'/></text></svg>"
-    alt="waving text"
+    src="https://gist.githubusercontent.com/alukach/7c510d45080d5b2c1d42a0309ad25411/raw/9e42a8904b8da9a289d45b44491f39a1586293fb/example.svg"
+    width="600"
+    alt="Animated terminal session"
   />
 </p>
 
