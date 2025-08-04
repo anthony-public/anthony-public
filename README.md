@@ -1,8 +1,8 @@
 ## Hi, this is Anthony Harper.
 Seasoned full‑stack software engineer with 12 years of hands‑on experience transforming sketch‑board concepts into production‑grade web and cloud solutions. I specialize in building pixel‑perfect, sub‑100‑ms interfaces with React/Next.js and TypeScript, while architecting resilient, event‑driven back‑ends in .NET 8, Node.js 20, Python (FastAPI/Django), and Java (Spring Boot). My toolbox spans micro‑frontend architectures, design‑token pipelines, AI‑powered data‑visualization dashboards, and CI/CD automation with Docker, Kubernetes, and Terraform. A relentless advocate for performance, accessibility, and DevOps culture, I mentor cross‑disciplinary teams, enforce Web‑Vitals budgets, and translate ambiguous stakeholder ideas into secure, scalable, and maintainable products that delight millions of users.
 <p align="center">
-  <a href="https://github.com/ArnoldW-dev"><a href="https://github.com/ArnoldW-dev"><img src="https://komarev.com/ghpvc/?username=maxscodes-price&style=flat" alt="profile views"></a></a>
-  <a href="https://github.com/ArnoldW-dev?tab=followers"><img src="https://img.shields.io/github/followers/maxscodes-price?label=Followers&style=flat" alt="followers"></a>
+  <a href="https://github.com/anthony-public"><a href="https://github.com/anthony-public"><img src="https://komarev.com/ghpvc/?username=anthony-public&style=flat" alt="profile views"></a></a>
+  <a href="https://github.com/anthony-public?tab=followers"><img src="https://img.shields.io/github/followers/anthony-public?label=Followers&style=flat" alt="followers"></a>
 </p>
 
 <p align="center">
